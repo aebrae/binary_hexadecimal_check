@@ -1,5 +1,6 @@
 # binary_hexadecimal_check
 Checks if a binary number(string) is equal to its hexadecimal equivalent.
+E.g. '11110001' -->  'F1'
 
 Example:
 $./binary_number_check.py
